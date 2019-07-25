@@ -1,5 +1,12 @@
 package fr.eni.javaee.module9;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+
 // Tests
 // http://localhost:8080/AppliDemo/modules/module9/rest/couleurs 
 // http://localhost:8080/AppliDemo/modules/module9/rest/couleurs/rouge 
